@@ -1,12 +1,12 @@
-###Yana Kotsulym
-##Contacts 
+### Yana Kotsulym
+## Contacts 
 * __Locaton:__ Rzeszow, Poland
 * __Phone:__ +38-0978237352, +48-570230725
 * __Email:__ yanak7170@gmail.com
 * __Telegram:__ Yana Kushnir
 * __GitHub:__ Yana977
 
-##About Me
+## About Me
 I'm 24 years old, I work as a sushi cook, and I want to change my activities. That is why I'm here. My goal is to gain knowledge and become a Front-end developer.
 
 __My strengths:__
@@ -15,14 +15,14 @@ __My strengths:__
 * Desire to learn and develop new skills
 * Sincerity and openness
 
-##Skills
+## Skills
 * HTML
 * CSS
 * Fundamental JavaScript
 * Git/GitHub
 * Figma
 
-##Code Examples
+## Code Examples
 ``` 
 const slides = document.querySelectorAll('.slide')
 for (const slide of slides) {
@@ -37,10 +37,11 @@ function clearActiveClasses() {
 	})
 } 
 ```
-##Work Experience 
+## Work Experience 
+
 _Nothing yet…_
 
-##Education
+## Education
 * __University:__ 
     * Vasyl Stefanyk Precarpathian National University, Law Institute
 	 * Yuri Fedkovych Chernivtsi National University, project management in economy and security of the  enterprise
@@ -51,7 +52,7 @@ _Nothing yet…_
 	 * Youtube:
 	 1.[HTML/CSS/JS course](https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr)
 
-##Languages
+## Languages
 * __English__ - Pre-Intermidiate 
 * __Ukrainian__ - Native Speaker
 * __Russian__ - Upper-Intermidiate
