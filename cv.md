@@ -37,4 +37,23 @@ function clearActiveClasses() {
 	})
 } 
 ```
+##Work Experience 
+_Nothing yet…_
+
+##Education
+* __University:__ 
+    * Vasyl Stefanyk Precarpathian National University, Law Institute
+	 * Yuri Fedkovych Chernivtsi National University, project management in economy and security of the  enterprise
+* __Courses:__
+    * Udemy:
+	 1. [HTML/CSS (in process...)](https://www.udemy.com/course/webdeveloper/learn/lecture/14524072?start=0#learning-tools)
+	 2. [JavaScript (in process...)](https://www.udemy.com/course/javascript_full/learn/lecture/14328446?start=15#content)
+	 * Youtube:
+	 1.[HTML/CSS/JS course](https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr)
+
+##Languages
+* __English__ - Pre-Intermidiate 
+* __Ukrainian__ - Native Speaker
+* __Russian__ - Upper-Intermidiate
+* __Polish__ - Pre-Intermidiate
 
